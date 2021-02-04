@@ -12,3 +12,4 @@ tmdb.np.dl.playstation.net
 gs-sec.ww.np.dl.playstation.net
 recursion.test.playstation.net
 *.s0.playstation.net
+solid.com
