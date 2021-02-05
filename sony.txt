@@ -13,4 +13,5 @@ gs-sec.ww.np.dl.playstation.net
 *.s0.playstation.net
 *.gst.sonygst.loris-e.llnwd.net
 *.dscw25.akamai.net
+*.net.c.footprint.net
 
