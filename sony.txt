@@ -3,4 +3,5 @@ gs2.sonycoment.loris-e.llnwd.net
 *.dscw25.akamai.net
 *.gst.sonygst.loris-2.llnwd.net
 gst.prod.dl.playstation.net.c.footprint.net
+psn.gst.map.fastly.net
 
