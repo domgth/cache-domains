@@ -12,8 +12,6 @@ tmdb.np.dl.playstation.net
 gs-sec.ww.np.dl.playstation.net
 *.s0.playstation.net
 *.gst.sonygst.loris-e.llnwd.net
-*.dscw25.akamai.net
-*.net.c.footprint.net
+d1xpvrktya7brt.cloudfront.net
+sonygst.s.llnwi.net
 
-*.dscb.akamaiedge.net
-*.b.akamaiedge.net
