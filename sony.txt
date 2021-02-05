@@ -1,5 +1,5 @@
 gs2.ww.prod.dl.playstation.net
 gs2.sonycoment.loris-e.llnwd.net
 *.dscw25.akamai.net
-
+gst.prod.dl.playstation.net.c.footprint.net
 
