@@ -7,5 +7,9 @@ psn.gst.map.fastly.net
 *.dscw25.akamai.net
 
 
+d1xpvrktya7brt.cloudfront.net
+sonygst.s.llnwi.net
+
+
 
 
